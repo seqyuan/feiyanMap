@@ -23,7 +23,7 @@
 * 在网页上点击右键
 * 选择`检查`
 
-![feiyan_2.png](https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_2.png)
+![feiyan_2.png](https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_2.png width="20")
 
 * 在网页的地址栏输入[腾讯疫情地图网页](https://news.qq.com//zt2020/page/feiyan.htm#charts)
 
@@ -215,6 +215,14 @@ set_frame(ax)
 ```
 
 ![c933dcaffa120c21a215e061355f38f7.png](https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_10.png)
+
+### 代码github地址
+代码已做成[ipynb](https://github.com/seqyuan/feiyanMap)上传到我的github，可直接在`jupyter notebook`中运行测试。
+
+地图数据如果在官网下载慢，可以在我的百度网盘下载
+
+* **链接**:https://pan.baidu.com/s/1-Eo3q21eGrz8ABBhK4ySow  
+* **密码**:r8pl
 
 欢迎扫码关注生信微信公众号
 
