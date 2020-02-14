@@ -2,7 +2,7 @@
 
 此次新型冠状病毒肺炎疫情影响甚广，很多网站推出了疫情分布地图供我们时时追踪全国各地的疫情情况。
 
-![feiyan_1.png](https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_1.png)
+<feiyan_1 src="https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_1.png" width="60">
 
 我们自己要用python实现这个图需要解决两个大的问题：
 
@@ -23,7 +23,7 @@
 * 在网页上点击右键
 * 选择`检查`
 
-![feiyan_2.png](https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_2.png width="20")
+<feiyan_2 src="https://raw.githubusercontent.com/seqyuan/blog/master/images/feiyan/feiyan_2.png" width="25">
 
 * 在网页的地址栏输入[腾讯疫情地图网页](https://news.qq.com//zt2020/page/feiyan.htm#charts)
 
